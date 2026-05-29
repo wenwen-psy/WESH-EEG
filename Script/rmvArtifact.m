@@ -1,7 +1,7 @@
 function rmvArtifact(subname)
 close all
 load('subs_ibl_eeg.mat')
-files = {dir(fullfile(ibl.path.prepro,[subname,'*epoch*.set'])).name}';
+files = {dir(fullfile(ibl.path.prepro,[subname,'*epoch.set'])).name}';
 %%
 for i = 1:length(files)
 

@@ -1,5 +1,5 @@
 clear;
-ibl.path.ana = '/Users/wenwen/Documents/BU/WESH/IBL_Resting_EEG/Script';
+ibl.path.ana = '/Users/wenwen/Documents/BU/WESH/IBL_Resting_EEG/WESH-EEG/Script';
 ibl.path.data = '/Users/wenwen/Documents/BU/WESH/IBL_Resting_EEG/Data';
 ibl.path.Figs = '/Users/wenwen/Documents/BU/WESH/IBL_Resting_EEG/Figures';
 ibl.path.prepro = '/Users/wenwen/Documents/BU/WESH/IBL_Resting_EEG/PreproEEG';
